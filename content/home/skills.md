@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-code"
+  icon = "code"
   icon_pack = "fas"
   name = "Programming"
   description = "C/C++,Python,Java,SQL,HTML,Matlab"
@@ -27,7 +27,7 @@ subtitle = ""
   description = "Tensorflow,Kears,Pytorch,NumPy, Matplotlib，Common Deep Learning Models"  
   
 [[feature]]
-  icon = "fa-tools"
+  icon = "tools"
   icon_pack = "fas"
   name = "tools"
   description = "Git,Anaconda,Pycharm,Intellij IDEA,Eclipse"
