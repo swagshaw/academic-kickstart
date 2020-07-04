@@ -24,8 +24,7 @@ subtitle = ""
   icon = "chart-line"
   icon_pack = "fas"
   name = "Machine Learning"
-  description = "Tensorflow,Kears,Pytorch,NumPy, Matplotlib
-Common Deep Learning Models"  
+  description = "Tensorflow,Kears,Pytorch,NumPy, Matplotlib，Common Deep Learning Models"  
   
 [[feature]]
   icon = "fa-tools"
