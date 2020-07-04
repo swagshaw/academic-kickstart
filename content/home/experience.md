@@ -18,27 +18,27 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Java software development engineer"
+  company = "China Mobile (Chengdu) Industry Research Institute"
+  company_url = "https://www.chinamobileltd.com/sc/global/home.php"
+  location = "China SiChuan ChenDu"
+  date_start = "2020-07-15"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Participate in the company's core business system demand analysis, planning, system design, and bottom R & D;Responsible for coding and document writing of each application module
+  * Responsible for daily iterative upgrade of the architecture, ensuring service quality, and being able to design and implement highly available architecture solutions
+  * Participate in the system's highly concurrent transformation and performance tuning, complete the debugging and testing of target products, and provide support for project implementation.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Shanghai Jiao Tong University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "ShangHai"
+  date_start = "2020-06-20"
+  date_end = ""
+  description = """The research assistant is expected to work with the Principal Investigator to conduct research in the field of machine learning and its applications on biomedical image analysis. The machine learning techniques to be used include GAN,CNN,deep learning, etc. The expected outcomes of project are high-quality research papers in the field of AI."""
 
 +++
