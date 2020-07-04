@@ -26,9 +26,9 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   [content.filters]
     tag = ""
-    category = "Conference paper"
-    publication_type = "punished"
-    author = "Yang Xiao"
+    category = ""
+    publication_type = ""
+    author = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
