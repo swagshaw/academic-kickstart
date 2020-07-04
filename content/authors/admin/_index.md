@@ -1,75 +1,37 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Yang Xiao
+role: "An engineer of China Mobile "
+avatar_filename: 一寸证件照.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: China Mobile (ChengDu) Industry Research Institute
+superuser: true
+authors:
+  - admin
+bio: My research interests include biomedical image analysis , distributed
+  programming , android apps development
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Artificial Intelligence
+  - Image Analysis
+social: []
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
+    - year: 2020
+      course: Bachelor of Engineering
+      institution: College of Computer Science and Technology, Jilin University
 email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello, I am Yang(Jan) Xiao(Shaw), a software engineer and a growing AI scientist. My Life motto is: Get everything, you have to pay all,conquer all things.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Gifted in programming, I was admitted by a top-notched middle school in Anqing City. Discovering problems, searching for solutions, picking the best solution, and solving problems in an efficient way, I developed strong logic and methods in problem solving. 
+
+Proceeding with such logic and method, in the second year of high school, I began to predict undergraduate university that I can reach by comparing my grades and ranking with those collected data from previous students. As my grades improved, I updated my references so as to make more progress to reach better universities. Seeing my progress at such a glance, I will always maintain a positive learning attitude. 
+
+Since then, I have fallen in love with building models in computer, solving problems, and then optimizing my choices. With such fantasy, I resolutely choose a major relevant to computer science at Jilin University. 
+
+Now, the wave of artificial intelligence is here.AI is an industry that creates miracles，I want to try my best to lead the trend and be the leader of the times.IBM,Apple,FaceBook, maybe I can be the next one.It’s interesting, isn’t it?
+
+This is why I fall in love with CS.
