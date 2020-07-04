@@ -1,7 +1,7 @@
 ---
 title: Yang Xiao
 role: "An engineer of China Mobile "
-avatar_filename: img_20191013_230111_gaitubao_100x133.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: China Mobile (ChengDu) Industry Research Institute
 superuser: true
