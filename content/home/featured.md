@@ -26,10 +26,10 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
-    category = ""
+    tag = "Vision Sharing Method of Network Robot Based on Deep Learning"
+    category = "Conference"
     publication_type = ""
-    author = ""
+    author = "Yang Xiao"
   
 [design]
   # Toggle between the various page layout types.
